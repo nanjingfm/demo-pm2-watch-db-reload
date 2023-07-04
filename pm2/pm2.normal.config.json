@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "test",
+      "script": "server.js",
+      "exec_mode": "fork",
+      "wait-ready": true
+    }
+  ]
+}
